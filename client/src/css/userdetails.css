@@ -1,0 +1,49 @@
+#detailsDiv
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+#details
+{
+    width: 23%;
+    height:590px;
+}
+#backBtn
+{
+    margin-top: 3%;
+}
+#map
+{
+    width: 75%;
+}
+.label
+{
+    font-weight: bold;
+    font-size:1.1em;
+    opacity: 0.6;
+}
+.contentGroup
+{
+    margin-top: 7%;
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.label
+{
+    width: 40%;
+}
+
+.value
+{
+    width: 40%;
+    color: black;
+    opacity: 0.7;
+    font-family: cursive;
+}
+#details
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

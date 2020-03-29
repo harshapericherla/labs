@@ -1,0 +1,30 @@
+
+.card-footer *
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.has-search
+{
+    position: relative;
+}
+.form-control-feedback
+{
+    position: absolute;
+    left:38%;
+    top:35%;
+}
+.info-msg
+{
+    font-size: 20px;
+    text-align: center;
+    color:red;
+    font-weight: bold;
+    opacity: 0.6;
+}
+.card
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
